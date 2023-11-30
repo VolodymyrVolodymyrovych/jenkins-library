@@ -1,3 +1,3 @@
 def call(String name, String surname){
-    sh "echo ${name} ${surname}"
+    sh "echo Hello my master, ${name} ${surname}"
 }
